@@ -1,0 +1,273 @@
+.test {
+    transition: none;
+}
+.test ul {
+    display: grid;
+    transition: none;
+}
+.test ul li {
+    text-align: center;
+    margin:3rem 0 !important;
+    transition: none;
+}
+.test ul li span {
+    font-size: 1.2em !important;
+    transition: none;
+}
+.left h1{
+    font-size: 1.5em;
+    transition: 0.3s;
+}
+.text_top h1{
+    font-size: 3.5em  !important;
+    transition: 0.4s !important;
+    transition: 0.3s;
+}
+.text_top p {
+    font-size: 1.2em !important;
+    transition: 0.4s !important;
+    transition: 0.3s;
+}
+header .btn button {
+    width: 14.5rem !important;
+    font-size: 1.1em !important;
+    transition: 0.3s;
+
+}
+nav ul{
+    font-size: .99em !important;
+    padding: 5rem  0 !important;
+    transition: 0.3s;
+}
+nav ul li span {
+    font-size: .67em !important;
+    transition: 0.3s;
+}
+/* MAIN */
+.main-block {
+    display: flex;
+    margin: 0 6rem !important;
+    transition: 0.3s;
+}
+.block-1 img{
+    width: 80% !important;
+    height: 400px !important;
+    transition: 0.3s;
+}
+.block-2 {
+    height: 500px !important;
+    padding: 2rem 2.5rem!important;
+    transition: 0.3s;
+}
+.block-2 h1 {
+    width: 100% !important;
+    font-size: 1.7em;
+    transition: 0.3s;
+}
+.block-2 p {
+    width: 100%;
+    font-size: 1em !important;
+    line-height: 1.4 !important;
+    transition: 0.3s;
+}
+.video-play p {
+    margin: 0 1rem !important;
+    transition: 0.3s;
+}
+.some-text {
+    margin-top: 6rem !important;
+    transition: 0.3s;
+}
+.some-text h1 {
+    font-size: 2.1em !important;
+    padding-bottom: 1rem !important;
+    transition: 0.3s;
+}
+.some-text p {
+    font-size: 1.1em !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions .icons {
+    justify-content: center !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions .icons img {
+    width: 3rem !important;
+    margin: 0 7rem !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions .h2-s {
+    font-size: .8em !important;
+    justify-content: center;
+    transition: 0.3s;
+}
+.plan-and-descriptions .h2-s h2 {
+    margin: 0 auto !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions .p-s {
+    justify-content: center;
+    transition: 0.3s;
+}
+.plan-and-descriptions .p-s p{
+    width: 30% !important;
+    margin: 0 auto !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions-2 .icons {
+    width: 100%;
+    justify-content: center !important;
+    transition: 0.3s;
+
+}
+.plan-and-descriptions-2 .icons img {
+    width: 3rem !important;
+    margin: 0 7.5rem !important;
+    transition: 0.3s;
+
+}
+.plan-and-descriptions-2 .h2-s {
+    font-size: .75em !important;
+    justify-content: center;
+    transition: 0.3s;
+
+}
+.plan-and-descriptions-2 .h2-s h2 {
+    margin: 0 auto !important;
+    transition: 0.3s;
+
+}
+.plan-and-descriptions-2 .p-s {
+    justify-content: center;
+    transition: 0.3s;
+
+}
+.plan-and-descriptions-2 .p-s p{
+    width: 30%;
+    margin: 0 auto !important;
+    transition: 0.3s;
+
+}
+.middle-text-1 h1 {
+    font-size: 3em;
+    transition: 0.3s;
+}
+.middle-text-1 p {
+    font-size: 1em;
+    transition: 0.3s;
+}
+.center-img-slider-and-stuff .slider {
+    width: 700px;
+    margin: 0 auto !important;
+    transition: 0.3s;
+}
+.center-img-slider-and-stuff .carousel-item img{
+    margin: 1rem 6rem !important;
+    width: 30rem !important;
+    transition: 0.3s;
+}
+.middle-stuff h1{
+    font-size: 3.5em !important;
+    transition: 0.3s;
+}
+.middle-stuff p {
+    font-size: 1em !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff {
+    margin: 0 4rem !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-1 {
+    width: 260px;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-2 {
+    width: 260px;
+    transition: 0.3s;
+
+}
+.three-post-down-stuff .img-3 {
+    width: 260px;
+    transition: 0.3s;
+
+}
+.three-post-down-stuff .img-1 img {
+    max-width: 90% !important;
+    transition: 0.3s;
+
+}
+.three-post-down-stuff .img-2 img {
+    max-width: 90% !important;
+    transition: 0.3s;
+
+}
+.three-post-down-stuff .img-3 img {
+    max-width: 90% !important;
+    transition: 0.3s;
+
+}
+.three-post-down-stuff #date {
+    font-size: .9em !important;
+    transition: 0.3s;
+
+}
+.three-post-down-stuff #place {
+    font-size: 1em !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff #description {
+    width: 100% !important;
+    margin-bottom: 2rem !important;
+    transition: 0.3s;
+}
+.customers h1 {
+    font-size: 3.5em;
+    transition: 0.3s;
+}
+.three-customers .co-1 p{
+    width: 100% !important;
+    transition: 0.3s;
+}
+.three-customers .co-2 p{
+    width: 100% !important;
+    transition: 0.3s;
+}
+.three-customers .co-3 p{
+    width: 100% !important;
+    transition: 0.3s;
+}
+.image-and-star {
+    margin: 0 2rem !important;
+    transition: 0.3s;
+}
+.image-and-star img {
+    width: 12rem !important;
+    transition: 0.3s;
+}
+.footer-end p:first-child {
+    width: 55rem !important;
+    transition: 0.3s;
+}
+.footer-end ul li {
+    font-size: 1em !important;
+    transition: 0.3s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

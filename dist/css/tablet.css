@@ -1,0 +1,238 @@
+.test {
+    transition: none;
+}
+.test ul {
+    display: grid;
+    transition: none;
+}
+.test ul li {
+    text-align: center;
+    margin:3rem 0 !important;
+    transition: none;
+}
+.test ul li span {
+    font-size: 1.2em !important;
+    transition: none;
+}
+.text_top h1{
+    font-size: 3em  !important;
+    transition: 0.4s !important;
+}
+.text_top p {
+    font-size: 1em !important;
+    transition: 0.4s !important;
+}
+header {
+    height: 28rem !important;
+}
+header .btn button {
+    width: 10rem !important;
+    font-size: .8em !important;
+    color:white;
+    transition: 0.3s;
+}
+/* MAIN */
+.main-block {
+    display: flex;
+    margin: 0 5rem !important;
+    transition: 0.3s;
+}
+.block-1 img{
+    width: 80% !important;
+    height: 350px !important;
+    transition: 0.3s;
+}
+.block-2 {
+    height: 500px !important;
+    padding: 2rem 2.5rem!important;
+    transition: 0.3s;
+}
+.block-2 h1 {
+    font-size: 1em;
+    transition: 0.3s;
+}
+.block-2 p {
+    width: 100%;
+    font-size: .95em !important;
+    line-height: 1.1 !important;
+    transition: 0.3s;
+}
+.video-play  {
+    width: 110% !important;
+}
+.video-play p {
+    font-size: .8em !important;
+}
+.some-text {
+    margin-top: 4rem !important;
+    transition: 0.3s;
+}
+.some-text h1 {
+    font-size: 1.9em !important;
+    transition: 0.3s;
+}
+.some-text p {
+    font-size: .99em !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions .icons img {
+    width: 2.4rem !important;
+    margin: 0 auto !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions .h2-s {
+    font-size: .6em !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions .p-s p{
+    width: 100% !important;
+    margin: 0 1.5rem !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions-2 .icons img {
+    width: 2.4rem !important;
+    margin: 0 auto !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions-2 .h2-s {
+    font-size: .6em !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions-2 .p-s p{
+    width: 100% !important;
+    margin: 0 1.5rem !important;
+    transition: 0.3s;
+}
+.middle-text-1 h1 {
+    font-size: 2.2em;
+    transition: 0.3s;
+}
+.middle-text-1 p {
+    font-size: .99em;
+    transition: 0.3s;
+}
+.center-img-slider-and-stuff {
+    padding-top: 12rem;
+}
+.center-img-slider-and-stuff .slider{
+    width: 450px !important;
+}
+.center-img-slider-and-stuff .carousel-item img{
+    margin: 0 1.5rem !important;
+    width: 25rem !important;
+    transition: 0.3s;
+}
+.middle-stuff h1{
+    font-size: 3em !important;
+    transition: 0.3s;
+}
+.carousel-inner div {
+    margin-bottom: 10rem !important;
+}
+.three-post-down-stuff {
+    margin: 0 4rem !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-1 {
+    width: 190px;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-2 {
+    width: 190px;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-3 {
+    width: 190px;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-1 img {
+    max-width: 80% !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-2 img {
+    max-width: 80% !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-3 img {
+    max-width: 80% !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff #date {
+    font-size: .7em !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff #place {
+    font-size: .8em !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff #description {
+    font-size: .88em;
+    margin-bottom: 2rem !important;
+    transition: 0.3s;
+}
+.customers h1 {
+    font-size: 2.8em;
+    transition: 0.3s;
+}
+.three-customers {
+    margin: 4rem 4.99rem !important;
+    margin-bottom: 1rem !important;
+}
+.three-customers .co-1 p{
+    font-size: .80em !important;
+    width: 100% !important;
+    transition: 0.3s;
+}
+.three-customers .co-1 img {
+    width: 2.5rem !important;
+}
+.three-customers .co-2 p{
+    font-size: .80em !important;
+    width: 100% !important;
+    transition: 0.3s;
+}
+.three-customers .co-2 img {
+    width: 2.5rem !important;
+}
+.three-customers .co-3 p{
+    width: 100% !important;
+    font-size: .80em !important;
+    transition: 0.3s;
+}
+.three-customers .co-3 img {
+    width: 2.5rem !important;
+}
+.down-text h2 {
+    font-size: 2.5em !important;
+    transition: .3s;
+}
+.down-text p {
+    font-size: .8em !important;
+}
+.image-and-star img {
+    width: 8rem !important;
+    transition: 0.3s;
+}
+/* FOOTER */
+.footer-main h4 {
+    font-size: 1.1em !important;
+}
+.footer-main ul li {
+    font-size: .8em !important;
+}
+.top-footer-part-3 p {
+    font-size: .8em !important;
+}
+.top-footer-part-4 p {
+    font-size: .9em !important;
+}
+.top-footer-part-4 .form {
+    width: 12.5rem !important;
+}
+.footer-end p:first-child {
+    width: 45rem !important;
+    transition: 0.3s;
+}
+.footer-end p:nth-child(2){
+    font-size: 1em !important;
+}

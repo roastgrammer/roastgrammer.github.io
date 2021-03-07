@@ -1,0 +1,288 @@
+.test {
+    width: 105% !important;
+    transition: none;
+}
+.test ul {
+    display: grid;
+    transition: none;
+}
+.test ul li {
+    text-align: center;
+    margin:3rem 0 !important;
+    transition: none;
+}
+.test ul li span {
+    font-size: 1.2em !important;
+    transition: none;
+}
+.text_top {
+    margin: -1rem 0 !important;
+}
+.text_top h1{
+    font-size: 2em  !important;
+    color:white;
+    transition: 0.4s !important;
+}
+.text_top p {
+    font-size: .8em !important;
+    color:rgb(163, 151, 128);
+    margin: 0 !important;
+    transition: 0.4s !important;
+}
+header {
+    height: 20rem !important;
+}
+header .btn button {
+    width: 9rem !important;
+    font-size: .8em !important;
+    color:white;
+    transition: 0.3s;
+}
+/* MAIN */
+.main-block {
+    margin: 0 2rem !important;
+    transition: 0.3s;
+}
+.block-1 {
+    width: 95% !important;
+}
+.block-1 img{
+    width: 80% !important;
+    height: 250px !important;
+    margin: 2rem 2rem !important;
+    transition: 0.3s;
+}
+.block-2 {
+    padding: 1.5rem !important;
+    height: 370px !important;
+    transition: 0.3s;
+}
+.some-text h1 {
+    font-size: 1.5em !important;
+    transition: 0.3s;
+}
+.some-text p {
+    width: 80% !important;
+    padding-bottom: 7rem !important;
+    font-size: .77em !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions {
+    padding: 0 1rem !important;
+}
+.plan-and-descriptions-2 {
+    margin-bottom: 8rem !important;
+}
+.plan-and-descriptions-2 {
+    padding: 0 1rem !important;
+}
+.plan-and-descriptions .icons img {
+    width: 2.5rem !important;
+    margin: 0 auto !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions-2 .icons img {
+    width: 2.5rem !important;
+    margin: 0 auto !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions .h2-s {
+    margin: 0 .5rem !important;
+    font-size: .55em !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions-2 .h2-s {
+    margin: 0 .5rem !important;
+    font-size: .55em !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions .p-s p{
+    font-size: 0.8em !important;
+    width: 100% !important;
+    margin: 0 1rem !important;
+    transition: 0.3s;
+}
+.plan-and-descriptions-2 .p-s p{
+    font-size: 0.8em !important;
+    width: 100% !important;
+    margin: 0 1rem !important;
+    transition: 0.3s;
+}
+.middle-text-1 {
+    margin-bottom: 1rem !important;
+}
+.middle-text-1 h1 {
+    font-size: 1.99em !important;
+    transition: 0.3s;
+}
+.middle-text-1 p {
+    font-size: .8em !important;
+    transition: 0.3s;
+}
+.center-img-slider-and-stuff .slider {
+    padding: 0 3rem !important;
+    width: 500px !important;
+    transition: 0.3s;
+}
+.middle-stuff h1{
+    font-size: 2.5em !important;
+    transition: 0.3s;
+}
+.middle-stuff p {
+    font-size: .8em !important;
+}
+.three-post-down-stuff {
+    padding:1rem 0 !important;
+    margin:0 1rem !important;
+}
+.three-post-down-stuff .img-1 {
+    width: 200px;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-2 {
+    width: 200px;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-3 {
+    width: 200px;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-1 img {
+    max-width: 100% !important;
+    margin-bottom: 1rem !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-2 img {
+    max-width: 100% !important;
+    margin-bottom: 1rem !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff .img-3 img {
+    max-width: 100% !important;
+    margin-bottom: 1rem !important;
+    transition: 0.3s;
+}
+.three-post-down-stuff #date {
+    font-size: .5em !important;
+    transition: 0.3s;
+}
+.customers h1 {
+    font-size: 2.2em;
+    transition: 0.3s;
+}
+.three-customers {
+    margin: 2rem 1.1rem !important;
+}
+.three-customers .co-1 {
+    height: 20rem !important;
+}
+.three-customers .co-2 {
+    height: 20rem !important;
+}
+.three-customers .co-3 {
+    height: 20rem !important;
+}
+.three-customers .co-1 p{
+    font-size: .75em !important;
+    transition: 0.3s;
+}
+.three-customers .co-1 img {
+    width: 2rem !important;
+}
+.three-customers .co-2 img {
+    width: 2rem !important;
+}
+.three-customers .co-2 p{
+    font-size: .75em !important;
+    transition: 0.3s;
+}
+.three-customers .co-3 img {
+    width: 2rem !important;
+}
+.three-customers .co-3 p{
+    font-size: .75em !important;
+    transition: 0.3s;
+}
+.image-and-star .iconify {
+    width: .7rem !important;
+}
+.image-and-star .first-img p {
+    width: 80% !important;
+    font-size: .8em !important;
+}
+.image-and-star .seccond-img p {
+    width: 80% !important;
+    font-size: .8em !important;
+}
+.image-and-star .third-img p {
+    width: 80% !important;
+    font-size: .8em !important;
+}
+.image-and-star .fourth-img p {
+    width: 95% !important;
+    font-size: .8em !important;
+}
+/* FOOTER */
+footer .footer-main {
+    display:grid;
+    grid-template-columns: 310px 250px;
+    transition: 0.3s;
+}
+.footer-main h4 {
+    margin:2rem .5rem !important;
+    transition: 0.3s;
+}
+.footer-main ul {
+    margin: 0 1rem !important;
+    transition: 0.3s;
+}
+.footer-main .top-footer-part-1 {
+    width: 100%;
+    transition: 0.3s;
+}
+.top-footer-part-1 ul li:first-child {
+    width: 25% !important;;
+}
+.top-footer-part-1 ul li:nth-child(3) {
+    width: 32% !important;;
+}
+.top-footer-part-1 ul li:nth-child(4) {
+    width: 15% !important;;
+}
+.top-footer-part-1 ul li:nth-child(5) {
+    width: 22% !important;;
+}
+.top-footer-part-3 p{
+    width: 70%;
+    margin:2rem 1.5rem !important;
+    transition: 0.3s;
+}
+.top-footer-part-4 p{
+    width: 60% !important;
+    margin:1rem .5rem!important;
+    transition: 0.3s;
+}
+.top-footer-part-4 .form {
+    margin: 0 .5rem !important;
+    transition: .3s;
+}
+.footer-main h4 {
+    font-size: .99em !important;
+    transition: 0.3s;
+}
+.footer-main ul li {
+    font-size: .77em !important;
+    transition: 0.3s;
+}
+.footer-end p:first-child {
+    width: 32rem !important;
+    transition: 0.3s;
+}
+.footer-end p:nth-child(2){
+    font-size: .8em !important;
+    transition: .3s;
+}
+.footer-end ul li {
+    transition: .3s;
+    font-size: .7em !important;
+}
