@@ -7,6 +7,7 @@
 }
 .test ul li {
     text-align: center;
+    font-size: .6em !important;
     margin:3rem 0 !important;
     transition: none;
 }
@@ -66,6 +67,7 @@ header .btn button {
 .some-text {
     margin-top: 4rem !important;
     transition: 0.3s;
+    margin-bottom: 4rem !important;
 }
 .some-text h1 {
     font-size: 1.9em !important;
@@ -74,34 +76,43 @@ header .btn button {
 .some-text p {
     font-size: .99em !important;
     transition: 0.3s;
+    padding-bottom: 1rem !important;
 }
-.plan-and-descriptions .icons img {
-    width: 2.4rem !important;
+.plans-and-decription {
+    display: grid;
+}
+.plans-and-decription .block-1 {
+    width: 50% !important;
     margin: 0 auto !important;
-    transition: 0.3s;
+    margin-bottom: 1rem !important;
 }
-.plan-and-descriptions .h2-s {
-    font-size: .6em !important;
-    transition: 0.3s;
-}
-.plan-and-descriptions .p-s p{
-    width: 100% !important;
-    margin: 0 1.5rem !important;
-    transition: 0.3s;
-}
-.plan-and-descriptions-2 .icons img {
-    width: 2.4rem !important;
+.plans-and-decription .block-2 {
+    width: 50% !important;
     margin: 0 auto !important;
-    transition: 0.3s;
+    margin-bottom: 1rem !important;
 }
-.plan-and-descriptions-2 .h2-s {
-    font-size: .6em !important;
-    transition: 0.3s;
+.plans-and-decription .block-3 {
+    width: 50% !important;
+    margin: 0 auto !important;
+    margin-bottom: 1rem !important;
 }
-.plan-and-descriptions-2 .p-s p{
-    width: 100% !important;
-    margin: 0 1.5rem !important;
-    transition: 0.3s;
+.plans-and-decription-2 {
+    display: grid;
+}
+.plans-and-decription-2 .block-1 {
+    width: 50% !important;
+    margin: 0 auto !important;
+    margin-bottom: 1rem !important;
+}
+.plans-and-decription-2 .block-2 {
+    width: 50% !important;
+    margin: 0 auto !important;
+    margin-bottom: 1rem !important;
+}
+.plans-and-decription-2 .block-3 {
+    width: 50% !important;
+    margin: 0 auto !important;
+    margin-bottom: 1rem !important;
 }
 .middle-text-1 h1 {
     font-size: 2.2em;

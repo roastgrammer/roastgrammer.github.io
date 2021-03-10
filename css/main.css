@@ -93,7 +93,7 @@ main {
     display: flex;
     margin: 0 7rem;
     margin-bottom: 10rem; }
-    main .main-block .block-1 img {
+    main .main-block .block-1 img, main .main-block .plans-and-decription .block-2 img, .plans-and-decription main .main-block .block-2 img, main .main-block .plans-and-decription-2 .block-2 img, .plans-and-decription-2 main .main-block .block-2 img, main .main-block .plans-and-decription .block-3 img, .plans-and-decription main .main-block .block-3 img, main .main-block .plans-and-decription-2 .block-3 img, .plans-and-decription-2 main .main-block .block-3 img {
       width: 100%;
       height: 600px; }
     main .main-block .block-2 {
@@ -126,41 +126,21 @@ main {
   main .some-text p {
     padding-bottom: 10rem; }
 
-.plan-and-descriptions, .plan-and-descriptions-2 {
-  transition: 0.3s;
-  padding: 0 5rem;
+.plans-and-decription, .plans-and-decription-2 {
+  display: flex;
+  justify-content: space-around;
   margin-bottom: 5rem; }
-  .plan-and-descriptions .icons, .plan-and-descriptions-2 .icons {
-    display: flex;
-    justify-content: space-around; }
-    .plan-and-descriptions .icons img, .plan-and-descriptions-2 .icons img {
+  .plans-and-decription .block-1, .plans-and-decription-2 .block-1, .plans-and-decription .block-2, .plans-and-decription-2 .block-2, .plans-and-decription .block-3, .plans-and-decription-2 .block-3 {
+    width: 20%;
+    text-align: center; }
+    .plans-and-decription .block-1 img, .plans-and-decription-2 .block-1 img, .plans-and-decription .block-2 img, .plans-and-decription-2 .block-2 img, .plans-and-decription .block-3 img, .plans-and-decription-2 .block-3 img {
       width: 4rem;
       margin-bottom: 1rem; }
-      .plan-and-descriptions .icons img:last-child, .plan-and-descriptions-2 .icons img:last-child {
-        margin: 0 -1rem; }
-  .plan-and-descriptions .h2-s, .plan-and-descriptions-2 .h2-s {
-    display: flex;
-    justify-content: space-around;
-    margin-bottom: 0.5rem; }
-    .plan-and-descriptions .h2-s h2, .plan-and-descriptions-2 .h2-s h2 {
-      padding: 0 1rem;
-      margin: 0 1rem;
-      font-size: 1.75em; }
-  .plan-and-descriptions .p-s, .plan-and-descriptions-2 .p-s {
-    display: flex;
-    justify-content: space-around; }
-    .plan-and-descriptions .p-s p, .plan-and-descriptions-2 .p-s p {
-      width: 28%;
-      text-align: center;
-      line-height: 1.5;
-      color: grey;
-      font-family: Arial, Helvetica, sans-serif; }
-
-.plan-and-descriptions-2 {
-  transition: 0.3s;
-  margin-bottom: 15rem; }
-  .plan-and-descriptions-2 .icons {
-    margin: 1rem 1rem 0 0; }
+    .plans-and-decription .block-1 h2, .plans-and-decription-2 .block-1 h2, .plans-and-decription .block-2 h2, .plans-and-decription-2 .block-2 h2, .plans-and-decription .block-3 h2, .plans-and-decription-2 .block-3 h2 {
+      font-size: 1.2em;
+      margin-bottom: 1rem; }
+    .plans-and-decription .block-1 p, .plans-and-decription-2 .block-1 p, .plans-and-decription .block-2 p, .plans-and-decription-2 .block-2 p, .plans-and-decription .block-3 p, .plans-and-decription-2 .block-3 p {
+      margin-bottom: 1rem; }
 
 .middle-text-1 {
   transition: 0.3s;
@@ -346,7 +326,8 @@ footer {
       outline: none;
       border: none;
       background: #1a1a1a;
-      margin-bottom: .5rem; }
+      margin-bottom: .5rem;
+      color: white; }
       footer .footer-main .top-footer-part-4 input:focus::placeholder {
         visibility: hidden; }
       footer .footer-main .top-footer-part-4 input::placeholder {
@@ -369,6 +350,9 @@ footer {
     footer .footer-end p i {
       margin: 0 .5rem;
       color: red; }
+      footer .footer-end p i:hover {
+        transition: .4s ease-in;
+        color: #00c3ff; }
   footer .footer-end ul {
     list-style: none;
     display: flex;
@@ -379,7 +363,3 @@ footer {
       margin: 0 1rem;
       margin-bottom: 5rem;
       cursor: pointer; }
-
-@media screen and (min-width: 1201px) {
-  body {
-    width: auto; } }

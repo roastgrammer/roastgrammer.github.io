@@ -7,11 +7,12 @@
 }
 .test ul li {
     text-align: center;
+    font-size: .7em !important;
     margin:3rem 0 !important;
     transition: none;
 }
 .test ul li span {
-    font-size: 1.2em !important;
+    font-size: 1em !important;
     transition: none;
 }
 .left h1{
@@ -87,66 +88,97 @@ nav ul li span {
     font-size: 1.1em !important;
     transition: 0.3s;
 }
-.plan-and-descriptions .icons {
-    justify-content: center !important;
-    transition: 0.3s;
-}
-.plan-and-descriptions .icons img {
-    width: 3rem !important;
-    margin: 0 7rem !important;
-    transition: 0.3s;
-}
-.plan-and-descriptions .h2-s {
-    font-size: .8em !important;
+.plans-and-decription {
+    display: flex;
     justify-content: center;
-    transition: 0.3s;
+    margin-bottom: 0 !important;
 }
-.plan-and-descriptions .h2-s h2 {
-    margin: 0 auto !important;
-    transition: 0.3s;
+.plans-and-decription .block-1 {
+    width: 31% !important;
+    height: 15rem !important;
+    margin: 0 !important;
 }
-.plan-and-descriptions .p-s {
+.plans-and-decription .block-1 img {
+    margin: 1rem !important;
+    height: 4rem !important;
+    width: 4rem !important;
+}
+.plans-and-decription .block-1 h2 {
+    margin-bottom: 0 !important;
+}
+.plans-and-decription .block-2 {
+    width: 35% !important;
+    height: 15rem !important;
+    margin: 0 !important;
+
+}
+.plans-and-decription .block-2 img {
+    width: 4rem !important;
+    height: 4rem !important;
+    margin-top: -1rem !important;
+}
+.plans-and-decription .block-2 h2 {
+    margin-bottom: 0 !important;
+}
+.plans-and-decription .block-2 p {
+    line-height: .5;
+}
+.plans-and-decription .block-3 {
+    width: 31.5% !important;
+    height: 15rem !important;
+    margin: 0 !important;
+}
+.plans-and-decription .block-3 img {
+    width: 4rem !important;
+    height: 4rem !important;
+    margin: 1.1rem !important;
+}
+.plans-and-decription .block-3 h2 {
+    margin-bottom: 0 !important;
+}
+.plans-and-decription-2 {
+    display: flex;
     justify-content: center;
-    transition: 0.3s;
+    margin-bottom: 3rem !important;
 }
-.plan-and-descriptions .p-s p{
-    width: 30% !important;
-    margin: 0 auto !important;
-    transition: 0.3s;
+.plans-and-decription-2 .block-1 {
+    width: 31% !important;
+    height: 15rem !important;
+    margin: 0 !important;
 }
-.plan-and-descriptions-2 .icons {
-    width: 100%;
-    justify-content: center !important;
-    transition: 0.3s;
-
+.plans-and-decription-2 .block-1 img {
+    margin: 1rem !important;
+    height: 4rem !important;
+    width: 4rem !important;
 }
-.plan-and-descriptions-2 .icons img {
-    width: 3rem !important;
-    margin: 0 7.5rem !important;
-    transition: 0.3s;
-
+.plans-and-decription-2 .block-1 h2 {
+    margin-bottom: 0 !important;
 }
-.plan-and-descriptions-2 .h2-s {
-    font-size: .75em !important;
-    justify-content: center;
-    transition: 0.3s;
-
+.plans-and-decription-2 .block-2 {
+    width: 35% !important;
+    height: 15rem !important;
+    margin: 0 !important;
 }
-.plan-and-descriptions-2 .h2-s h2 {
-    margin: 0 auto !important;
-    transition: 0.3s;
-
+.plans-and-decription-2 .block-2 img {
+    margin-top: -1rem !important;
+    height: 4rem !important;
+    width: 4rem !important;
 }
-.plan-and-descriptions-2 .p-s {
-    justify-content: center;
-    transition: 0.3s;
-
+.plans-and-decription-2 .block-2 h2 {
+    margin-bottom: 0 !important;
 }
-.plan-and-descriptions-2 .p-s p{
-    width: 30%;
-    margin: 0 auto !important;
-    transition: 0.3s;
-
+.plans-and-decription-2 .block-3 {
+    width: 31% !important;
+    height: 15rem !important;
+    margin: 0 !important;
+}
+.plans-and-decription-2 .block-3 img {
+    margin: 1rem !important;
+    height: 4rem !important;
+    width: 4rem !important;
+}
+.plans-and-decription-2 .block-3 h2 {
+    margin-bottom: 0 !important;
 }
 .middle-text-1 h1 {
     font-size: 3em;
